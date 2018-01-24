@@ -2,4 +2,4 @@
 first of chs
 
 it,s my  first test ,thank you!
-222
+Creating a new branch is quick & simple.
